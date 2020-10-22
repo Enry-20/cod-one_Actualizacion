@@ -1,0 +1,67 @@
+.back{
+    background:sss;
+}
+#navbar{;
+ ;
+
+ 
+}
+.active1{background: black;}
+.navbar navbar-expand-lg navbar-dark bg-primary{
+    
+}
+.nav-link{
+    background: none;
+    color: white;
+    align-items: center;
+}
+.nav-link:hover{
+    background: gray;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.photo{
+    position: absolute;
+    width: 100%;
+    height: 800px;
+}
+
+.text0{
+    position: absolute;
+bottom: 50px;
+right: 430px;
+text-align: center;
+color: black;
+}
+
+.back2{
+    display: flex;
+    /* flex-direction: column; */
+   
+
+}
+.subback{
+    
+    padding:50px; 
+}
+
+.back2 img{
+    padding:20px ;
+}
+.Novelties{
+    background: url(img/volando.jpeg) no-repeat center center/cover;
+    background-attachment: fixed;
+    height: 250px;
+    padding: 50px;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 100px;
+   
+   
+
+}
+.texto2{
+    float: right;
+}
+.subbackII button{ float: right;}
+
